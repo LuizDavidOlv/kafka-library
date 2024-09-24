@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/Data-Worker/bin/Debug/net8.0
+/src/Data-Worker/obj
+/src/Data-Worker/Properties/launchSettings.json
+/src/Kafka/obj
+/src/KafkaSampleApi/KafkaSampleApi/obj
